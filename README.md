@@ -1,6 +1,10 @@
 # Welcome to my Github :alien:
 ## About 
- First year software developer from South Africa. Self taught in HTML and CSS prior to college. currently focusing in Java for backend and app developement 
+ First year software developer from South Africa. Self taught in HTML and CSS prior to college. currently focusing in Java for backend and app developement
+ 
+## Currently Working on ✍️
+ * Student portal programme - Java
+ * 2D Indie game - Java
 <!--
 **Aiden367/Aiden367** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
