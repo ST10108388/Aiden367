@@ -1,5 +1,7 @@
 # Welcome to my Github :alien:
-## About 
+
+
+## About :sunglasses:
  First year software developer from South Africa. Self taught in HTML and CSS prior to college. currently focusing in Java for backend and app developement
  
 ## Currently Working on ✍️
