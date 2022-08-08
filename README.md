@@ -6,7 +6,7 @@
  
 ## Currently Working on ✍️
  * Student portal programme - Java
- * 2D Indie game - Java
+ * Chat Room Application - C#
 <!--
 **Aiden367/Aiden367** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
