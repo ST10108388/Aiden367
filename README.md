@@ -2,11 +2,11 @@
 
 
 ## About :sunglasses:
- First year software developer from South Africa. Experienced in Java, C#, Python, HTML,CSS, and SQL
+ Second year software developer from South Africa. Experienced in Java, C#, Python, HTML,CSS, and SQL
  
 ## Currently Working on ✍️
  
- * Chat Room Application - C#
+ 
 <!--
 **Aiden367/Aiden367** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
